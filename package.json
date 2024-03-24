@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmtuanmap/aperiam-natus-quis-autem",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmtuanmap/aperiam-natus-quis-autem.git"
   },
   "dependencies": {
     "@libphamton/api-chatbot": "^1.0.1",
@@ -22,6 +22,7 @@
     "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
     "@oraliepham/api-facebooknew": "^1.0.5",
     "@scdb/simple-http": "^1.0.4",
+    "@tuan149/api-sunny": "github:tuan149/api-sunny",
     "@utilcode/simple-http": "^1.0.0",
     "api-chat-fanpage-facebook": "^1.2.0",
     "api-chatfb": "^1.0.7",
