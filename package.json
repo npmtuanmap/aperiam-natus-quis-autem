@@ -1,0 +1,19 @@
+{
+  "name": "@utilcode/simple-template-advanced-new",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utilcode/simple-template-advanced-new.git"
+  },
+  "dependencies": {
+    "@libphamton/chatfanpage": "1.0.5",
+    "@libphamton/fb-group": "1.0.3"
+  }
+}
