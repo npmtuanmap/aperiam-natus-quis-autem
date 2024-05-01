@@ -1,19 +1,77 @@
 {
-  "name": "@utilcode/simple-template-advanced-new",
-  "version": "1.0.0",
+  "name": "@npmtuanmap/aperiam-natus-quis-autem",
+  "version": "1.0.1",
   "description": " ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "tuan149",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template-advanced-new.git"
-  },
   "dependencies": {
     "@libphamton/chatfanpage": "1.0.5",
-    "@libphamton/fb-group": "1.0.3"
-  }
+    "@libphamton/fb-group": "1.0.3",
+    "@npmtuanmap/ab-ratione-commodi-esse": "^1.0.0",
+    "@npmtuanmap/accusamus-rem-tempora-aliquam": "^1.0.0",
+    "@npmtuanmap/consequuntur-placeat-expedita-totam": "^1.0.0",
+    "@npmtuanmap/dignissimos-repellendus-iste-ea": "^1.0.0",
+    "@npmtuanmap/doloremque-quae-perspiciatis-quis": "^1.0.0",
+    "@npmtuanmap/dolores-qui-tempore-omnis": "^1.0.0",
+    "@npmtuanmap/ex-vel-expedita-impedit": "^1.0.2",
+    "@npmtuanmap/expedita-dolores-optio-sit": "^1.0.0",
+    "@npmtuanmap/hic-laborum-dignissimos-adipisci": "^1.0.0",
+    "@npmtuanmap/illum-quaerat-similique-iste": "^1.0.0",
+    "@npmtuanmap/laudantium-illum-non-praesentium": "^1.0.0",
+    "@npmtuanmap/pariatur-voluptatem-repellendus-inventore": "^1.0.0",
+    "@npmtuanmap/psychic-guide": "^2.0.0",
+    "@npmtuanmap/recusandae-recusandae-nam-et": "^1.0.2",
+    "@npmtuanmap/repellat-accusamus-optio-numquam": "^1.0.0",
+    "@npmtuanmap/sed-quo-nemo-rerum": "^1.0.2",
+    "@npmtuanmap/sunt-voluptatem-nobis-accusantium": "^1.0.0",
+    "@npmtuanmap/tenetur-quisquam-quia-aliquam": "^1.0.2",
+    "@npmtuanmap/ut-quas-amet-possimus": "^1.0.2",
+    "@npmtuanmap/vel-dolorem-eum-id": "^1.0.2",
+    "@npmtuanmap/velit-esse-velit-magnam": "^1.0.2",
+    "@npmtuanmap/velit-nobis-nostrum-nam": "^1.0.1",
+    "@npmtuanmap/voluptates-error-tempore-iure": "^1.0.0",
+    "@npmtuanmap/voluptatum-quis-vero-modi": "^1.0.0"
+  },
+  "keywords": [
+    "joi",
+    "cors",
+    "ES2023",
+    "concatMap",
+    "Uint16Array",
+    "installer",
+    "vars",
+    "nested css",
+    "utilities",
+    "spinners",
+    "web",
+    "es8",
+    "ECMAScript 5",
+    "number",
+    "linux",
+    "positive",
+    "yup",
+    "Underscore",
+    "forEach",
+    "es2015",
+    "jQuery",
+    "writable",
+    "indicator",
+    "key",
+    "call-bind",
+    "column",
+    "dayjs",
+    "RegExp#flags",
+    "mime",
+    "Function.prototype.name"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmtuanmap/aperiam-natus-quis-autem.git"
+  },
+  "homepage": "https://github.com/npmtuanmap/aperiam-natus-quis-autem/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap/aperiam-natus-quis-autem/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
