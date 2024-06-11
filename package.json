@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/aperiam-natus-quis-autem",
-  "version": "1.4.40",
+  "version": "2.4.40",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -45,5 +45,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/aperiam-natus-quis-autem/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
